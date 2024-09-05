@@ -1,0 +1,1 @@
+Realizando um projeto basico em Java, para me adequar as diferenças dessa linguagem com Python, que já estudo a alguns anos.
